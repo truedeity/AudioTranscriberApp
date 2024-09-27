@@ -20,5 +20,5 @@ AudioTranscriberApp is a real-time speech-to-text application built in C# using 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone ...
+git clone https://github.com/truedeity/AudioTranscriberApp.git
 cd AudioTranscriberApp
